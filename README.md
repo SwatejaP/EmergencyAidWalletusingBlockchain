@@ -1,5 +1,10 @@
 # 🚨 Emergency Aid Wallet  
 
+## 👥 Contributors
+- [Swateja Patil](https://github.com/SwatejaP)
+- Priyanka N D
+- Divya Patil
+
 ## 🏆Done as a Hackathon Project 
 
 When emergencies strike, **aid must be delivered fast, used properly, and protected from misuse**.  
