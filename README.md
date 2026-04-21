@@ -1,11 +1,5 @@
 # 🚨 Emergency Aid Wallet  
 
-## �‍💻 Team
-Built with ❤️ during Monad Blitz hackathon held at IIIT Dharwad
-
-- Swateja Patil
-- Priyanka N D
-- Divya Patil
 
 ## 🏆Done as a Hackathon Project 
 
@@ -67,8 +61,8 @@ When emergencies strike, **aid must be delivered fast, used properly, and protec
 
 ## 👩‍💻 Team
 Built with ❤️ during Monad Blitz hackathon held at IIIT Dharwad  
-- Priyanka N D (https://github.com/PriyankaND66)  
 - Swateja Patil
+- Priyanka N D 
 - Divya Patil
 
 ---
