@@ -1,7 +1,9 @@
 # 🚨 Emergency Aid Wallet  
 
-## 👥 Contributors
-- [Swateja Patil](https://github.com/SwatejaP)
+## �‍💻 Team
+Built with ❤️ during Monad Blitz hackathon held at IIIT Dharwad
+
+- Swateja Patil
 - Priyanka N D
 - Divya Patil
 
